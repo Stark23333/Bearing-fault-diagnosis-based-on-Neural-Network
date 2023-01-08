@@ -1,4 +1,5 @@
-# Bearing-fault-diagnosis-based-on-neural-network
+# Bearing fault diagnosis based on Neural Network
+
 A simple 5 layer fully connected Neural Network，used as an experimental project for learning softmax regression
 
 The given data is the data of bearing in different fault states (normal, inner ring fault, outer ring fault, ball fault).
